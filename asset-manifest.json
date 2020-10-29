@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/milim/static/js/main.3189d0f5.chunk.js",
-    "main.js.map": "/milim/static/js/main.3189d0f5.chunk.js.map",
-    "runtime-main.js": "/milim/static/js/runtime-main.3e5f1e26.js",
-    "runtime-main.js.map": "/milim/static/js/runtime-main.3e5f1e26.js.map",
-    "static/css/2.6414bb7b.chunk.css": "/milim/static/css/2.6414bb7b.chunk.css",
-    "static/js/2.da0597e0.chunk.js": "/milim/static/js/2.da0597e0.chunk.js",
-    "static/js/2.da0597e0.chunk.js.map": "/milim/static/js/2.da0597e0.chunk.js.map",
-    "index.html": "/milim/index.html",
-    "precache-manifest.885a0a838ba331c539bf152227c4d61a.js": "/milim/precache-manifest.885a0a838ba331c539bf152227c4d61a.js",
-    "service-worker.js": "/milim/service-worker.js",
-    "static/css/2.6414bb7b.chunk.css.map": "/milim/static/css/2.6414bb7b.chunk.css.map",
-    "static/js/2.da0597e0.chunk.js.LICENSE.txt": "/milim/static/js/2.da0597e0.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.3189d0f5.chunk.js",
+    "main.js.map": "/static/js/main.3189d0f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b45048f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b45048f2.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.da0597e0.chunk.js": "/static/js/2.da0597e0.chunk.js",
+    "static/js/2.da0597e0.chunk.js.map": "/static/js/2.da0597e0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a8b60ff0f60a31641e38c802e583181e.js": "/precache-manifest.a8b60ff0f60a31641e38c802e583181e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/static/css/2.6414bb7b.chunk.css.map",
+    "static/js/2.da0597e0.chunk.js.LICENSE.txt": "/static/js/2.da0597e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e5f1e26.js",
+    "static/js/runtime-main.b45048f2.js",
     "static/css/2.6414bb7b.chunk.css",
     "static/js/2.da0597e0.chunk.js",
     "static/js/main.3189d0f5.chunk.js"
