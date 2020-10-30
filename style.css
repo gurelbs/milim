@@ -1,3 +1,4 @@
+
 .container-fluid{
     background-size: cover;
     background-position: center;
@@ -59,9 +60,9 @@
 
 }
 .scale-btn{
-  animation: scale 2s cubic-bezier(0.215, 0.610, 0.355, 1) infinite;
+  animation: btn 2s cubic-bezier(0.215, 0.610, 0.355, 1) infinite;
 }
-@keyframes scale {
+@keyframes btn {
   50%{
     transform: scale(1.3);
   }
